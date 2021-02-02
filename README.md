@@ -9,7 +9,7 @@ Clone this directory to your Linux setup of choice. Then use the folowing:
 ```
 bash <script-name> 
 ```
-If you are doing this in Repl.it, the Run command won't work (well, it will only work with the main.sh). Instead, either from the Console or the Shell, use the same command.
+If you are doing this in Repl.it, the Run command won't work (well, it will only work with the main.sh). Instead, either from the Console or the Shell, use the same command as stated above.
 
 ```
 main.sh - Hello World scripts
