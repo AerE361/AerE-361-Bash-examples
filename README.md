@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/AerE361/AerE-361-Bash-examples)](https://repl.it/github/AerE361/AerE-361-Bash-examples)
 # AerE 361
 ## Bash Examples
 ## Professor Nelson
