@@ -4,6 +4,9 @@
 
 This repo has example scripts to illustrate various commands you can use in making your own Bash scripts. Below is a listing of the scripts and an overview of what they each do.
 
+### Directions
+Clone this directory to your Linux setup of choice. Then use bash <script-name> to run the script you want to run. If you are doing this in Repl.it, the Run command won't work. Instead, either from the Console or the Shell, use the same command.
+
 ```
 main.sh - Hello World scripts
 
