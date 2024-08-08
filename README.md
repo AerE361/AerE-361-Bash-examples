@@ -1,4 +1,3 @@
-[![Run on Repl.it](https://repl.it/badge/github/AerE361/AerE-361-Bash-examples)](https://repl.it/github/AerE361/AerE-361-Bash-examples)
 # AerE 361
 ## Bash Examples
 ## Professor Nelson
@@ -10,7 +9,7 @@ Clone this directory to your Linux setup of choice. Then use the folowing:
 ```
 bash <script-name> 
 ```
-If you are doing this in Repl.it, the Run command won't work (well, it will only work with the main.sh). Instead, either from the Console or the Shell, use the same command as stated above.
+
 
 ```
 main.sh - Hello World scripts
